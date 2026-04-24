@@ -1,7 +1,6 @@
 # ⚡ Saulo José | Electrical Engineer
 
 Engenheiro Eletricista apaixonado por transformar hardware em inteligência. Especialista no desenvolvimento de **Sistemas Embarcados**, **Robótica**, aplicação de **Machine Learning** em sistemas físicos e **Agentes de IA**.
-
 ---
 
 ### 🚀 Sobre Mim
@@ -74,7 +73,7 @@ Organizada por áreas de atuação para facilitar a leitura:
 </div>
 
 <br />
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SauloJose/SauloJose/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SauloJose/SauloJose/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
