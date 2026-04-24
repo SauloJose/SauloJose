@@ -1,16 +1,67 @@
-## Hi there 👋
+# ⚡ Saulo José | Electrical Engineer
 
-<!--
-**SauloJose/SauloJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro Eletricista apaixonado por transformar hardware em inteligência. Especialista no desenvolvimento de **Sistemas Embarcados**, **Robótica** e aplicação de **Machine Learning** em sistemas físicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+- 🎓 **Engenharia Elétrica:** Foco em automação, controle e processamento de sinais.
+- 🤖 **Robótica & IA:** Desenvolvimento de algoritmos de visão computacional e controle autônomo.
+- 📟 **Hardware:** Experiência com microcontroladores (STM32, ESP32, Arduino) e integração de sensores.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SauloJose&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauloJose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🛠 Stack Técnica
+
+Organizada por áreas de atuação para facilitar a leitura:
+
+**Sistemas Embarcados & Engenharia**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="35" title="Embedded C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" title="MATLAB" />
+  <img src="https://skillicons.dev/icons?i=bots" height="35" title="Robotics" />
+</p>
+
+**Data Science & Machine Learning**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" title="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" title="R Language" />
+</p>
+
+**Desenvolvimento Geral & Ferramentas**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+<div align="left">
+  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="SEU_LINK_DO_INSTAGRAM"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="SEU_LINK_DO_WHATSAPP"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SauloJose/SauloJose/output/snake.svg" alt="Snake animation" />
+</div>
