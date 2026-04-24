@@ -1,13 +1,15 @@
 # ⚡ Saulo José | Electrical Engineer
 
-Engenheiro Eletricista apaixonado por transformar hardware em inteligência. Especialista no desenvolvimento de **Sistemas Embarcados**, **Robótica**, aplicação de **Machine Learning** em sistemas físicos e **Agentes de IA**.
+Electrical Engineer passionate about bridging the gap between hardware and intelligent systems. I specialize in **Embedded Systems**, **Robotics**, **Machine Learning** applied to physical environments, and **AI Agents**. Currently, my main focus is on **robotics development and robotic simulations**.
+
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-- 🎓 **Engenharia Elétrica:** Foco em automação, controle e processamento de sinais.
-- 🤖 **Robótica & IA:** Desenvolvimento de algoritmos de visão computacional e controle autônomo.
-- 📟 **Hardware:** Experiência com microcontroladores (STM32, ESP32, Arduino) e integração de sensores.
+- 🔭 **Current Focus:** Deeply engaged in **robotics and robotic simulations**, creating robust algorithms for complex physical interactions.
+- 🎓 **Electrical Engineering:** Focused on automation, control systems, and signal processing.
+- 🤖 **Robotics & AI:** Developing computer vision algorithms, autonomous control systems, and intelligent agents.
+- 📟 **Hardware:** Hands-on experience with microcontrollers (STM32, ESP32, Arduino) and sensor integration.
 
 ### 📊 GitHub Stats
 
@@ -18,11 +20,11 @@ Engenheiro Eletricista apaixonado por transformar hardware em inteligência. Esp
 
 ---
 
-### 🛠 Stack Técnica
+### 🛠 Tech Stack
 
-Organizada por áreas de atuação para facilitar a leitura:
+Organized by area of expertise:
 
-**Sistemas Embarcados & Engenharia**
+**Embedded Systems & Engineering**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="35" title="Embedded C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" title="C++" />
@@ -52,7 +54,7 @@ Organizada por áreas de atuação para facilitar a leitura:
   <img src="https://img.shields.io/badge/Tkinter-blue?style=flat&logo=python&logoColor=white" height="35" title="Tkinter" />
 </p>
 
-**Desenvolvimento Geral & Ferramentas**
+**General Development & Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />
@@ -63,17 +65,16 @@ Organizada por áreas de atuação para facilitar a leitura:
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Let's Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sauloj-almeida/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="mailto:saulo.jose.silva@ee.ufcg.edu.br"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="mailto:saulo.jose.silva@ee.ufcg.edu.br"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.instagram.com/sauloj.almeida/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://wa.me/5582991222603"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" /></a>
+  <a href="https://wa.me/5582991222603"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" /></a>
 </div>
 
 <br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/SauloJose/SauloJose/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
